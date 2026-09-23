@@ -1,0 +1,13 @@
+{
+  "kind": "process",
+  "name": "no-po-invoice-chaser-api",
+  "type": "api",
+  "spec": {
+    "projectName": "no-po-invoice-chaser-api"
+  },
+  "folders": [
+    {
+      "fullyQualifiedName": "solution_folder"
+    }
+  ]
+}
