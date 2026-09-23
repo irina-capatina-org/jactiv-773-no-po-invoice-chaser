@@ -25,8 +25,9 @@
     },
     "Development": {
       "status": "in-progress",
-      "updatedAt": "2026-09-23T12:07:06Z",
-      "task": "Building the automation"
+      "updatedAt": "2026-09-23T12:07:18Z",
+      "task": "Reading the design",
+      "run": 35858503954
     },
     "Testing": {
       "status": "todo",
